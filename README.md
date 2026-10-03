@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Shreyas<br><br>🔭 I’m currently working on AI/ML<br>💬 Ask me about Data Analyst related stuff <br>📭 How to reach me: LinkedIn - www.linkedin.com/in/shreyas-tople-shre4285<br>🙂 Pronounces: He/His<br>
+Hi there 👋<br><br>Nice meeting you, I'm Shreyas<br><br>🔭 I’m currently working on AI/ML<br>💬 Ask me about Data Analyst related stuff <br>📭 How to reach me: LinkedIn - www.linkedin.com/in/shreyas-tople-shre4285<br> My Portfolio: https://shreyas-2010.github.io/portfolio/ <br>🙂 Pronounces: He/His<br>
 
 
 ## 🌐 Socials:
